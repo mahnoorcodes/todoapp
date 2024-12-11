@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">To-Do App</string>
+    <string name="app_title">Task Mate</string>
+    <string name="to_do">To-Do Tasks</string>
+    <string name="add">Add a Task</string>
+    <string name="this_is_task_1">This is Task 1</string>
+    <string name="save">Save</string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+    <string name="about_us">About Us</string>
+    <string name="about_app">TaskMate helps users manage tasks efficiently, prioritize work and stay productive.</string>
+    <string name="about_app2">This app was developed using Java and Android Studio as a learning project. </string>
+    <string name="about_app3">Developed by:\nMahnoor Faisal \nVersion: 1.0.0</string>
+    <string name="email_help">Help and Feedback: \ntaskmate@123.com </string>
+    <string name="edit_help">To Edit Tasks: \nSwipe left on a \ntask to edit</string>
+    <string name="delete_help">To Delete Tasks: \nSwipe right on a \ntask to delete</string>
+</resources>
